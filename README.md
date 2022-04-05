@@ -1,5 +1,5 @@
-Gurtaj Khabra
-Computer Science 10
+Gurtaj Khabra |
+Computer Science 10 |
 March/April 2018
 
 This game was created as a final project for Computer Science in grade 10.
