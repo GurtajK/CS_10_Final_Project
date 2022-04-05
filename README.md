@@ -9,6 +9,6 @@ required keyboard inputs to be played.
 
 The game consists of targets labelled Q,W,E,R,D, or F falling down the screen
 and a score displayed at the bottom left which is incremented by 100 for each
-successful keystroke. Incorrect keystrokes or targets passing the bottom of
+correct keystroke. Incorrect keystrokes or targets passing the bottom of
 the screen cause an 'X' to appear at the bottom left and when there are 5,
 the game ends.
