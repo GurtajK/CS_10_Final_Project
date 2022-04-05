@@ -2,7 +2,7 @@ Gurtaj Khabra
 Computer Science 10
 March/April 2018
 
-This game was created as a final project for Computer Scienge in grade 10.
+This game was created as a final project for Computer Science in grade 10.
 The project was built entirely using Visual Basic .NET and was completed in pairs of 2.
 My partner and I chose to create a game which included a menu and help screen and
 required keyboard inputs to be played.
